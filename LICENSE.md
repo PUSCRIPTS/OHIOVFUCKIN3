@@ -1,4 +1,4 @@
-# PINGUINHUBV3 Script License Agreement (Must Read!)
+# PINGUINHUBV3 Script License Agreement
 
 **Effective Date:** October 21, 2024  
 **Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
