@@ -1,4 +1,4 @@
-# PINGUINHUBV3 Script
+# [PINGUINHUBV3 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/PINGUINHUBV3?tab=License-1-ov-file)
 
 ## Description
 PINGUINHUBV3 is a powerful script designed for Roblox that enhances gameplay through Aimbot, Visuals, and Flying. With this script, you can automate various actions, go AFK, and elevate your gaming experience.
@@ -17,7 +17,7 @@ To use the PINGUINHUBV3 Script:
 
 ## Instructions
 1. Join any game.
-2. Execute the script (only pc).
+2. Execute the script (only PC).
 3. Activate Aimbot, Flying, or enable Visuals.
 
 ## Support
