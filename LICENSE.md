@@ -1,4 +1,4 @@
-# [PINGUINHUBV3 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/MONEY-PRINTER-YAY?tab=License-1-ov-file)
+# PINGUINHUBV3 Script License Agreement (Must Read!)
 
 **Effective Date:** October 21, 2024  
 **Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
